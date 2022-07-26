@@ -17,6 +17,8 @@ pip2 install mechanize
 
 pip2 install bs4
 
+rm -rf 7digit
+
 git clone https://github.com/DH-Alamin/7-digit
 
 cd 7-digit
